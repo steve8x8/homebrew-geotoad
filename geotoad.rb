@@ -1,8 +1,8 @@
 class Geotoad < Formula
   desc "Query tool to query the geocaching.com website"
   homepage "https://github.com/steve8x8/geotoad"
-  url "https://github.com/steve8x8/geotoad/archive/3.27.0.tar.gz"
-  sha256 "2a851e1938d7a1e713cfa4720dcbf2ceaf0266f190a62c728b6def8aea2dcf5b"
+  url "https://github.com/steve8x8/geotoad/archive/3.27.1.tar.gz"
+  sha256 "88f512f425252c9eccd2229365b8562b510cd8c1e69430aeeb827b8c10dcc1f7"
   head "https://github.com/steve8x8/geotoad.git"
 
   def install
